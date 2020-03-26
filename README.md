@@ -1,2 +1,3 @@
-# three-js-fps-game
-fps free game make with three.js javascript 3d render
+# three.js fps free game
+
+Visit https://www.ci-bus.com/three-js-fps-game/
